@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+
+title: Rohan Grover
+description: A short description of your site's purpose
+
+# logo: [Location of the logo]
+show_downloads: "false"
+# google_analytics: [Your Google Analytics tracking ID]
